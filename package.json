@@ -1,0 +1,26 @@
+{
+  "name": "neog-lesson1-quiz-on-myself",
+  "version": "1.0.0",
+  "description": "This is a quiz game on myself(Abhinav uniyal).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhi044738/Neog-lesson1-quiz-on-myself.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhi044738/Neog-lesson1-quiz-on-myself/issues"
+  },
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "node-fetch": "^3.2.6",
+    "readline-sync": "^1.4.10"
+  },
+  
+  "homepage": "https://github.com/Abhi044738/Neog-lesson1-quiz-on-myself#readme"
+}
+  
